@@ -1,0 +1,14 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+langchain
+openai==0.28.1
+chromadb
+tiktoken
+docarray
+unstructured
+pysqlite3-binary
+plotly
+mlxtend
