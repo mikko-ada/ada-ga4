@@ -5,7 +5,6 @@ import plotly.express as px
 import csv
 import openai
 openai.api_key = ""
-###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
 
 st.title("GA4 Analytics")
 
