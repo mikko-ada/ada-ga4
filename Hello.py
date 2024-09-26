@@ -4,8 +4,8 @@ import plotly.graph_objects as go
 import plotly.express as px
 import csv
 import openai
-openai.api_key = "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"
-#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
+openai.api_key = ""
+###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
 
 st.title("GA4 Analytics")
 
